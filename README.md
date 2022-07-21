@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starboyzs (Ayowale Ojo)
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning react native && WEB3
+- 👀 I’m interested in Full stack development and Cloud engineering
+- 🌱 I’m currently learning AWS && GCP @Alt___School
 - 💞️ I’m looking to collaborate on Fullstack development projects
 - 📫 send me a dm => (https://twitter.com/Ayowale__Ojo)
 
