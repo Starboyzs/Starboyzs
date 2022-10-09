@@ -11,7 +11,7 @@ Ayowale Oluyomi Ojo is a front-end developer who has worked with HTML, CSS, Boot
 - 🌱 I’m currently learning cloud engineering.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#https://drive.google.com/file/d/1Shziun9uiWnFRgO27H_7lPbJUx6pELgY/view?usp=sharing) and contact me by emailing mailtoojoayowale3@gmail.com
+- 📫 You can [view my resume](https://drive.google.com/file/d/1Shziun9uiWnFRgO27H_7lPbJUx6pELgY/view?usp=sharing) and contact me by emailing mailtoojoayowale3@gmail.com
 
 ---
 
