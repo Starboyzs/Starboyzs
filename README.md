@@ -17,3 +17,4 @@ Ayowale Oluyomi Ojo is a front-end developer who has worked with HTML, CSS, Boot
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=starboyzs&show_icons=true&include_all_commits=true&hide_border=true" alt="Starboyz's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starboyzs&langs_count=8&layout=compact&hide_border=true" alt="Starboyz's GitHub stats" /> |
 | ------------- | ------------- |
+<img src="https://gpvc.arturio.dev/starboyzs" alt="profile views">
